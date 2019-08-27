@@ -1,2 +1,4 @@
 # scalableapp
-Test project for google &amp; facebook login
+Test Flutter project for google &amp; facebook login
+
+using Firebase method.
